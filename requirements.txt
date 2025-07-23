@@ -1,4 +1,2 @@
-from app.main import add
-
-def test_add():
-    assert add(2, 3) == 5
+pytest
+flake8
